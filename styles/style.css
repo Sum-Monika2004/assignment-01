@@ -7,32 +7,31 @@
   font-size: 34px;
   font-weight: bold;
 }
-.logo-text{
-  color: #4E47FF;
-  font-weight: bold;
-  font-size: 34px;
-   
-}
+
 header{
   background-image: url('../Assets/Hero-bg.png');
   background-repeat: no-repeat;
   height: 698px;
   object-fit: cover;
+  margin-bottom: 116px;
   
 }
 body{
   width: 1440px;
   height: 4043px;
+  margin: 0;
+  padding: 0;
  
 }
 nav{
   margin: 0 auto;
   padding: 50px;
   margin-bottom: 158px;
+  width: 1140px;
 }
 nav ul{
   display: flex;
-  width: 1140px;
+  margin: 0 auto;
   justify-content: space-between;
   list-style: none;
 
@@ -41,8 +40,8 @@ nav ul{
  width: 905px;
  margin: 0 auto;
  margin-bottom: 158px;
-
 }
+
 nav li{
   text-decoration: none;
 }
@@ -73,6 +72,7 @@ nav li{
   font-size: 65px;
   margin-bottom: 37px;
   text-align: center;
+  
   
 }
 .title{
