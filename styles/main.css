@@ -47,7 +47,7 @@
 }
 
 .productive-user{
-  background-color: #dddcfd;
+  background-color: #E4E6FF;
   margin: 0 auto;
   width: 1140px;
   height: 306px;
@@ -89,4 +89,95 @@
   color: #8d8d8d;
   font-size: 20px;
   text-align: center;
+}
+
+
+.boxs, .star, .reviewer{
+  display: flex;
+}
+.review{
+  width: 1140px;
+  height: 342px;
+  margin: 0 auto;
+  margin-top: 137px;
+}
+.review-title{
+  margin-bottom: 50px;
+  font-size: 42px;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color:#252432;
+  font-weight: bold;
+  text-align: center;
+  
+
+}
+.review-box{
+  width: 366.67px;
+  background-color: #ffffff;
+  padding: 24px;
+  justify-content: center;
+  border-radius: 14px;
+  border: 1px solid #F2EDED;
+
+}
+.star{
+  margin-bottom: 24px;
+  gap:4px;
+
+}
+.star-img{
+  height: 20px;
+  width: 20px;
+  object-fit: cover;
+}
+.boxs{
+  gap: 20px;
+}
+.review-txt, .rev-detail, .reviewer{
+  width: 318.67px;
+}
+.review-txt{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+
+}
+.rev-detail{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 15px;
+  margin-bottom: 24px;
+  font-weight: 500;
+}
+.prof-pic{
+  width: 40px;
+  height: 40px;
+  border-radius:50%;
+
+}
+.name{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16px;
+  color:#757575;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+.date{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16px;
+  color:#B3B3B3;
+  
+}
+.reviewer-details{
+  margin-left: 10px;
 }
