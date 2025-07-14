@@ -181,3 +181,63 @@
 .reviewer-details{
   margin-left: 10px;
 }
+
+
+.free-trial{
+  width: 1140px;
+  border-radius: 14px;
+  background-color: #ffffff;
+  margin: 0 auto;
+  margin-top: 137px;
+  
+}
+.ft-txt{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.ft-detail{
+  margin-bottom: 20px;
+  color: #afafaf;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 17px;
+  text-align: center;
+
+}
+.ft-img{
+  width: 840px;
+  height: 364.77px;
+  object-fit: cover;
+  border-radius: 48px;
+  margin-top: 20px;
+  object-position: center;
+
+}
+.gsf-btn{
+  background-color: #4E47FF;
+  color: white;
+  padding: 12px 36px;
+  border: none;
+  font-size: 16px;
+  border-radius: 10px;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin-bottom: 20px;
+  display: block;
+  margin: 0 auto;
+
+}
+.gsf{
+  text-decoration: none;
+  color:#ffffff;
+}
+.grid-items{
+  padding: 71px 150px;
+}
