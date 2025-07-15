@@ -241,3 +241,73 @@
 .grid-items{
   padding: 71px 150px;
 }
+
+
+.form-sec, .dtl{
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 92px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 71px 0;
+  
+
+}
+
+.left-sec-text{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 97px;
+  width:  528px;
+  
+}
+
+.right-sec label{
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: medium;
+ 
+}
+.right-sec input, textarea{
+  width: 435px;
+  height: 60px;
+  padding: 20px 32px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid #D6DDED;
+}
+.right-sec textarea{
+  height: 135px;
+}
+.right-sec ::placeholder{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 20px;
+  
+}
+.gt-btn{
+  background-color: #4E47FF;
+  color: white;
+  padding: 19px 101px;
+  border: none;
+  font-size: 16px;
+  border-radius: 10px;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: bold;
+  width: 502px;
+}
+
+.rs-detail{
+  width: 497px;
+  
+}
